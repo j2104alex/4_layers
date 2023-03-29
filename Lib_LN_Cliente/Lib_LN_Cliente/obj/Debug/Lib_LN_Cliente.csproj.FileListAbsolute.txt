@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\4_capas\Lib_LN_Cliente\Lib_LN_Cliente\bin\Debug\Lib_LN_Cliente.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\4_capas\Lib_LN_Cliente\Lib_LN_Cliente\bin\Debug\Lib_LN_Cliente.pdb
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\4_capas\Lib_LN_Cliente\Lib_LN_Cliente\bin\Debug\LibConexionBD.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\4_capas\Lib_LN_Cliente\Lib_LN_Cliente\bin\Debug\LibParametro.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\4_capas\Lib_LN_Cliente\Lib_LN_Cliente\bin\Debug\LibConexionBD.pdb
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\4_capas\Lib_LN_Cliente\Lib_LN_Cliente\bin\Debug\LibParametro.pdb
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\4_capas\Lib_LN_Cliente\Lib_LN_Cliente\obj\Debug\Lib_LN_Cliente.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\4_capas\Lib_LN_Cliente\Lib_LN_Cliente\obj\Debug\Lib_LN_Cliente.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\4_capas\Lib_LN_Cliente\Lib_LN_Cliente\obj\Debug\Lib_LN_Cliente.csproj.CopyComplete
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\4_capas\Lib_LN_Cliente\Lib_LN_Cliente\obj\Debug\Lib_LN_Cliente.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\4_capas\Lib_LN_Cliente\Lib_LN_Cliente\obj\Debug\Lib_LN_Cliente.pdb
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\4_capas\Lib_LN_Cliente\Lib_LN_Cliente\bin\Debug\LibLlenarGrid.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\4_capas\Lib_LN_Cliente\Lib_LN_Cliente\bin\Debug\LibLlenarGrid.pdb

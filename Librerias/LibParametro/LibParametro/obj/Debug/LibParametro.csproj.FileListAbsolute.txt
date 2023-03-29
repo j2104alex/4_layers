@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\LIBRERIAS\LibParametro\LibParametro\bin\Debug\LibParametro.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\LIBRERIAS\LibParametro\LibParametro\bin\Debug\LibParametro.pdb
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\LIBRERIAS\LibParametro\LibParametro\obj\Debug\LibParametro.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\LIBRERIAS\LibParametro\LibParametro\obj\Debug\LibParametro.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\LIBRERIAS\LibParametro\LibParametro\obj\Debug\LibParametro.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\LIBRERIAS\LibParametro\LibParametro\obj\Debug\LibParametro.pdb

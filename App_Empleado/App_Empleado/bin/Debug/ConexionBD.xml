@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Conexion>
+	<!--Son los datos que van en la cadena de conexión-->
+  <Servidor>LAPTOP-28LTPD78\SQLEXPRESS</Servidor>
+  <BaseDatos>DB_Empresa</BaseDatos>
+  <Usuario></Usuario>
+  <Password></Password>
+</Conexion>
